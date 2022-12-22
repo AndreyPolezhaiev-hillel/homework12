@@ -1,0 +1,1 @@
+This project about collections and a simple console application phonebook
